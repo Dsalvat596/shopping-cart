@@ -6,3 +6,6 @@ app.use(express.static('node_modules'));
 
 
 app.listen(8000);
+
+
+console.log("Node server is working!");
